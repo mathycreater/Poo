@@ -1,5 +1,5 @@
 
-package aula5;
+package ContaBanco;
 public class ContaBanco {
     // atributos
     public int numConta;
