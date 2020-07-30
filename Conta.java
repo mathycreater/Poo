@@ -1,7 +1,7 @@
 
-package aula5;
+package ContaBanco;
 
-public class Aula5 {
+public class Conta {
 
   
     public static void main(String[] args) {
